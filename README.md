@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi, I'm Rishitha👋
 
-<!--
-**rishitha125-design/rishitha125-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech student passionate about technology, creativity & growth
+🧠 Exploring NLP, AI & software development
+🚀 Aspiring software engineer and future startup founder
+🌱 Currently learning and building projects every day
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Python , 
+C / Java ,
+HTML • CSS • JavaScript ,
+Git & GitHub
+
+📚 Currently Working On
+
+• Improving coding skills
+
+• Learning NLP concepts
+
+• Building mini projects
+
+• Preparing for placements & certifications
+
+
+
+✨ Goals for 2026
+
+• Build impactful projects
+
+• Contribute to open source
+
+• Strengthen problem-solving skills
+
+• Grow into an independent and confident engineer
+
+
+🌸 Fun Fact
+
+I love mixing creativity with technology 🎨💻
+
+📫 Connect With Me
+
+LinkedIn: (www.linkedin.com/in/rishitha-bodduluri)
+
+Portfolio: (coming soon)
